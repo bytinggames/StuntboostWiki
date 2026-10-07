@@ -170,7 +170,7 @@ It runs on pretty low-end PCs and most laptops. See minimum specs on the Steam-P
 </details>
 
 <details>
-<summary><strong>Does it run on Liux?</strong></summary>
+<summary><strong>Does it run on Linux?</strong></summary>
 <dl><dd>
 
 Yes, natively.
