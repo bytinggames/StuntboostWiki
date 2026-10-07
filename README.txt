@@ -20,7 +20,7 @@ FAQ
     Where to report a bug?
         Either on $discord or on the [Steam Forum](https://steamcommunity.com/app/2999500/discussions/)
     Where can I follow you?
-        See [Links/Follow]
+        See [[Links/Follow us]]
     Where can I chat with other players?
         - Our $discord
     When did it release?
