@@ -48,7 +48,7 @@ FAQ
         Yes, no artificial frame cap
     Does it run on a potato?
         It runs on pretty low-end PCs and most laptops. See minimum specs on the Steam-Page.
-    Does it run on Liux?
+    Does it run on Linux?
         Yes, natively.
     Any plans to support Mac?
         Not planned currently.
