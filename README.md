@@ -16,13 +16,14 @@
 </dd></dl>
 </details>
 
+• [Discord](https://discord.gg/stuntboost)  
+• [Leaderboard Website](https://sblb.thefanclub.cc/)  
+• [Presskit](https://bytinggames.com/press/sheet.php?p=stuntboost)  
+• [Custom Mapping Tools](https://github.com/bytinggames/StuntboostTools)  
 • [speedrun.com](https://www.speedrun.com/stuntboost)  
 • [Website](https://bytinggames.com)  
 • [WRs on YouTube](https://www.youtube.com/@STUNTBOOSTWorldRecords)  
-• [Discord](https://discord.gg/stuntboost)  
-• [Tobi's Music](https://tobiaskozel.bandcamp.com/album/stuntboost-ost)  
-• [Presskit](https://bytinggames.com/press/sheet.php?p=stuntboost)  
-• [Custom Mapping Tools](https://github.com/bytinggames/StuntboostTools)
+• [Tobi's Music](https://tobiaskozel.bandcamp.com/album/stuntboost-ost)
 
 </dd></dl>
 <hr>

@@ -8,13 +8,14 @@ Links
         - [Steam - Byting Games](https://store.steampowered.com/developer/bytinggames)
         - [YouTube](https://www.youtube.com/@bytinggames9902)
         - [Bluesky](https://bsky.app/profile/bytinggames.com)
+    - $discord
+	- [Leaderboard Website](https://sblb.thefanclub.cc/)
+    - [Presskit](https://bytinggames.com/press/sheet.php?p=stuntboost)
+    - [Custom Mapping Tools](https://github.com/bytinggames/StuntboostTools)
     - [speedrun.com](https://www.speedrun.com/stuntboost)
     - [Website](https://bytinggames.com)
     - [WRs on YouTube](https://www.youtube.com/@STUNTBOOSTWorldRecords)
-    - $discord
     - [Tobi's Music](https://tobiaskozel.bandcamp.com/album/stuntboost-ost)
-    - [Presskit](https://bytinggames.com/press/sheet.php?p=stuntboost)
-    - [Custom Mapping Tools](https://github.com/bytinggames/StuntboostTools)
 
 FAQ
     Where to report a bug?
