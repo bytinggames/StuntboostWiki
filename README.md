@@ -320,7 +320,7 @@ You can take very tight turns. If you drag your mouse faster than your board can
 <summary><strong>Kickflip</strong></summary>
 <dl><dd>
 
-• This gets taught in lvl B3.  
+• This gets taught in lvl B1.  
 • Jump before a ramp and then jump again when touching it mid-air. This will initiate a Kickflip which gives you twice the jump height. It works on horizontal and vertical ramps (quarterpipes).  
 • The jump key timing is pretty generous and it doesn't matter if you hit the jump key slightly before or after collision
 
