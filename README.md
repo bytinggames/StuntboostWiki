@@ -2,20 +2,10 @@
 <details>
 <summary><strong>Links</strong></summary>
 <table><tr><td>
-<br>
-
-- https://www.speedrun.com/stuntboost
-- [Website](https://bytinggames.com)
-- [WRs on YouTube](https://www.youtube.com/@STUNTBOOSTWorldRecords)
-- [Discord](https://discord.gg/stuntboost)
-- [Tobi's Music](https://tobiaskozel.bandcamp.com/album/stuntboost-ost)
-- [Presskit](https://bytinggames.com/press/sheet.php?p=stuntboost)
-- [Custom Mapping Tools](https://github.com/bytinggames/StuntboostTools)
 
 <details>
 <summary><strong>Follow us</strong></summary>
 <table><tr><td>
-<br>
 
 - [Steam - STUNTBOOST](https://store.steampowered.com/app/2999500/STUNTBOOST/)
 - [Steam - Byting Games](https://store.steampowered.com/developer/bytinggames)
@@ -25,18 +15,24 @@
 </td></tr></table>
 </details>
 
+- [speedrun.com](https://www.speedrun.com/stuntboost)
+- [Website](https://bytinggames.com)
+- [WRs on YouTube](https://www.youtube.com/@STUNTBOOSTWorldRecords)
+- [Discord](https://discord.gg/stuntboost)
+- [Tobi's Music](https://tobiaskozel.bandcamp.com/album/stuntboost-ost)
+- [Presskit](https://bytinggames.com/press/sheet.php?p=stuntboost)
+- [Custom Mapping Tools](https://github.com/bytinggames/StuntboostTools)
+
 </td></tr></table>
 </details>
 
 <details>
 <summary><strong>FAQ</strong></summary>
 <table><tr><td>
-<br>
 
 <details>
 <summary><strong>Where to report a bug?</strong></summary>
 <table><tr><td>
-<br>
 
 Either on [Discord](https://discord.gg/stuntboost) or on the [Steam Forum](https://steamcommunity.com/app/2999500/discussions/)
 
@@ -46,7 +42,6 @@ Either on [Discord](https://discord.gg/stuntboost) or on the [Steam Forum](https
 <details>
 <summary><strong>Where can I follow you?</strong></summary>
 <table><tr><td>
-<br>
 
 See [Links/Follow]
 
@@ -56,7 +51,6 @@ See [Links/Follow]
 <details>
 <summary><strong>Where can I chat with other players?</strong></summary>
 <table><tr><td>
-<br>
 
 - Our [Discord](https://discord.gg/stuntboost)
 
@@ -66,7 +60,6 @@ See [Links/Follow]
 <details>
 <summary><strong>When did it release?</strong></summary>
 <table><tr><td>
-<br>
 
 2026, September 22th
 
@@ -76,7 +69,6 @@ See [Links/Follow]
 <details>
 <summary><strong>Is there a level editor?</strong></summary>
 <table><tr><td>
-<br>
 
 No, but you can [design levels with our tools](https://github.com/bytinggames/StuntboostTools)
 
@@ -86,7 +78,6 @@ No, but you can [design levels with our tools](https://github.com/bytinggames/St
 <details>
 <summary><strong>Is there multiplayer or co-op? Or is it planned?</strong></summary>
 <table><tr><td>
-<br>
 
 No, there's only online leaderboards. A multiplayer mode is more likely to appear in future projects.
 
@@ -96,7 +87,6 @@ No, there's only online leaderboards. A multiplayer mode is more likely to appea
 <details>
 <summary><strong>Is there a demo?</strong></summary>
 <table><tr><td>
-<br>
 
 No
 
@@ -106,7 +96,6 @@ No
 <details>
 <summary><strong>Does it support controller / keyboard?</strong></summary>
 <table><tr><td>
-<br>
 
 It's strongly recommended to play with mouse and keyboard, but you can play with any controller too.
 
@@ -116,7 +105,6 @@ It's strongly recommended to play with mouse and keyboard, but you can play with
 <details>
 <summary><strong>How long is the campaign?</strong></summary>
 <table><tr><td>
-<br>
 
 Simply getting through the game will take you around 3 hours. But the game is made with high replayability in mind. Finding shortcuts, earning medals, getting collectibles, bonus levels, speedrun challenges and community maps.
 
@@ -126,7 +114,6 @@ Simply getting through the game will take you around 3 hours. But the game is ma
 <details>
 <summary><strong>How much RNG is in the game?</strong></summary>
 <table><tr><td>
-<br>
 
 None
 
@@ -136,7 +123,6 @@ None
 <details>
 <summary><strong>Can I remap controls?</strong></summary>
 <table><tr><td>
-<br>
 
 Yes
 
@@ -146,7 +132,6 @@ Yes
 <details>
 <summary><strong>Does it support 4K / Ultrawide monitors?</strong></summary>
 <table><tr><td>
-<br>
 
 Yes
 
@@ -156,7 +141,6 @@ Yes
 <details>
 <summary><strong>Does it run on the Steam Deck or Steam Machine?</strong></summary>
 <table><tr><td>
-<br>
 
 Yes: https://steamcommunity.com/games/2999500/announcements/detail/677384059121303747
 
@@ -166,7 +150,6 @@ Yes: https://steamcommunity.com/games/2999500/announcements/detail/6773840591213
 <details>
 <summary><strong>Does it run at 60 FPS and beyond?</strong></summary>
 <table><tr><td>
-<br>
 
 Yes, no artificial frame cap
 
@@ -176,7 +159,6 @@ Yes, no artificial frame cap
 <details>
 <summary><strong>Does it run on a potato?</strong></summary>
 <table><tr><td>
-<br>
 
 It runs on pretty low-end PCs and most laptops. See minimum specs on the Steam-Page.
 
@@ -186,7 +168,6 @@ It runs on pretty low-end PCs and most laptops. See minimum specs on the Steam-P
 <details>
 <summary><strong>Does it run on Liux?</strong></summary>
 <table><tr><td>
-<br>
 
 Yes, natively.
 
@@ -196,7 +177,6 @@ Yes, natively.
 <details>
 <summary><strong>Any plans to support Mac?</strong></summary>
 <table><tr><td>
-<br>
 
 Not planned currently.
 
@@ -206,9 +186,8 @@ Not planned currently.
 <details>
 <summary><strong>Is there modding support?</strong></summary>
 <table><tr><td>
-<br>
 
-Not officially, but some players got some things going on [our Discord](https://discord.gg/stuntboost)
+Not officially, but some players got some things going on our [Discord](https://discord.gg/stuntboost)
 
 </td></tr></table>
 </details>
@@ -216,7 +195,6 @@ Not officially, but some players got some things going on [our Discord](https://
 <details>
 <summary><strong>Are there achievements?</strong></summary>
 <table><tr><td>
-<br>
 
 Yes, over 60
 
@@ -226,7 +204,6 @@ Yes, over 60
 <details>
 <summary><strong>What engine did you build it in?</strong></summary>
 <table><tr><td>
-<br>
 
 Self made engine on top of MonoGame.
 
@@ -236,7 +213,6 @@ Self made engine on top of MonoGame.
 <details>
 <summary><strong>What were your inspirations?</strong></summary>
 <table><tr><td>
-<br>
 
 Zineth, N (flash game), Trackmania, Celeste and Jet Set Radio.
 
@@ -246,7 +222,6 @@ Zineth, N (flash game), Trackmania, Celeste and Jet Set Radio.
 <details>
 <summary><strong>Who are you?</strong></summary>
 <table><tr><td>
-<br>
 
 After having published my free game Find You I teamed up with Tobi - a friend I met during college - to work on our first commercial game. We graduated and later quit our jobs to work full time on STUNTBOOST. I like to work in small teams, so it's only us two. We had a lot of additional help though. F.ex. SBVille helped in designing a few levels. Check out the credits to see who else was part of it.
 
@@ -256,7 +231,6 @@ After having published my free game Find You I teamed up with Tobi - a friend I 
 <details>
 <summary><strong>Why are there so many shortcuts?</strong></summary>
 <table><tr><td>
-<br>
 
 A big part of improving your runs is not only by physically playing better but also by figuring out shortcuts. Discovering shortcuts is part of the experience.
 
@@ -266,7 +240,6 @@ A big part of improving your runs is not only by physically playing better but a
 <details>
 <summary><strong>What's next?</strong></summary>
 <table><tr><td>
-<br>
 
 Not sure yet. But for now, the two of us will take a break soon. And we'll probably focus on new projects afterwards. That could mean working on something that builds upon STUNTBOOST or it could also mean something completely new.
 
@@ -276,7 +249,6 @@ Not sure yet. But for now, the two of us will take a break soon. And we'll proba
 <details>
 <summary><strong>How to get the lights back on?</strong></summary>
 <table><tr><td>
-<br>
 
 Hit Escape > Options
 
@@ -289,17 +261,14 @@ Hit Escape > Options
 <details>
 <summary><strong>Ingame - Physics</strong></summary>
 <table><tr><td>
-<br>
 
 <details>
 <summary><strong>Abilities</strong></summary>
 <table><tr><td>
-<br>
 
 <details>
 <summary><strong>Steer</strong></summary>
 <table><tr><td>
-<br>
 
 You can take very tight turns. If you drag your mouse faster than your board can turn, then your board will follow up pretty quickly. No matter how hard you steer, you won't loose speed
 
@@ -309,7 +278,6 @@ You can take very tight turns. If you drag your mouse faster than your board can
 <details>
 <summary><strong>Crouch</strong></summary>
 <table><tr><td>
-<br>
 
 - Increases gravity in air and on ground.
 - It also increases your grip. The grip is strongest when you begin to hold the crouch key or when you land on an edge (also works without crouching).
@@ -323,7 +291,6 @@ You can take very tight turns. If you drag your mouse faster than your board can
 <details>
 <summary><strong>Jump</strong></summary>
 <table><tr><td>
-<br>
 
 - It doesn't matter how long you hold the jump key. You can do a shorter jump by interrupting it with the crouch key (shift).
 - Jumping makes your collision shape smaller by pulling your "legs" up. When ground is in reach your "legs" / collision capsule will extend again
@@ -334,7 +301,6 @@ You can take very tight turns. If you drag your mouse faster than your board can
 <details>
 <summary><strong>Land</strong></summary>
 <table><tr><td>
-<br>
 
 - You conserve the most speed if the platform you land on matches the angle of your velocity. This is less relevant when landing on ramps. Landing on ramps always gives you more speed.
 - Landing somewhere higher then where you jumped off slightly slows you down. Sometimes it might be worth to ride up an uphill instead of jumping over it
@@ -346,7 +312,6 @@ You can take very tight turns. If you drag your mouse faster than your board can
 <details>
 <summary><strong>Kickflip</strong></summary>
 <table><tr><td>
-<br>
 
 - This gets taught in lvl B3.
 - Jump before a ramp and then jump again when touching it mid-air. This will initiate a Kickflip which gives you twice the jump height. It works on horizontal and vertical ramps (quarterpipes).
@@ -358,7 +323,6 @@ You can take very tight turns. If you drag your mouse faster than your board can
 <details>
 <summary><strong>Grind</strong></summary>
 <table><tr><td>
-<br>
 
 - Grinding doesn't give you speed, unless you're grinding on an orange/yellow rail. Then you'll accelerate constantly.
 - Grinding downhill or uphill will affect your velocity the same as when riding on the ground normally.
@@ -374,7 +338,6 @@ You can take very tight turns. If you drag your mouse faster than your board can
 <details>
 <summary><strong>Spring Jump / Heelflip</strong></summary>
 <table><tr><td>
-<br>
 
 - This is a kickflip that gives you even more height
 - Perform it like this: Fall a good amount -> hit "jump" before touching a downwards tilted surface -> launch yourself against a ramp -> do a kickflip
@@ -390,14 +353,12 @@ You can take very tight turns. If you drag your mouse faster than your board can
 <details>
 <summary><strong>Vehicles</strong></summary>
 <table><tr><td>
-<br>
 
 Each level has a set vehicle.
 
 <details>
 <summary><strong>Skateboard</strong></summary>
 <table><tr><td>
-<br>
 
 The default. You can only grind in levels starting from level B3. Exception: You can't grind in level E10.
 
@@ -407,7 +368,6 @@ The default. You can only grind in levels starting from level B3. Exception: You
 <details>
 <summary><strong>Longboard</strong></summary>
 <table><tr><td>
-<br>
 
 Like the skateboard, but can't jump.
 
@@ -417,7 +377,6 @@ Like the skateboard, but can't jump.
 <details>
 <summary><strong>Scooter</strong></summary>
 <table><tr><td>
-<br>
 
 - Has 10cm/s base speed instead of 5.
 - Can time travel with R/T.
@@ -429,7 +388,6 @@ Like the skateboard, but can't jump.
 <details>
 <summary><strong>Car</strong></summary>
 <table><tr><td>
-<br>
 
 - Cars drift constantly.
 - Oversteering is recommended.
@@ -441,7 +399,6 @@ Like the skateboard, but can't jump.
 <details>
 <summary><strong>Time Travel Car</strong></summary>
 <table><tr><td>
-<br>
 
 - Has 10cm/s base speed instead of 5.
 - Is a mix of the Scooter and the Car.
@@ -455,12 +412,10 @@ Like the skateboard, but can't jump.
 <details>
 <summary><strong>Objects</strong></summary>
 <table><tr><td>
-<br>
 
 <details>
 <summary><strong>Ramps</strong></summary>
 <table><tr><td>
-<br>
 
 - Most things that point upward and end with a sharp edge are considered ramps.
 - Landing on ramps conserves most speed than landing on normal ground.
@@ -469,7 +424,6 @@ Like the skateboard, but can't jump.
 <details>
 <summary><strong>Vertical Ramps</strong></summary>
 <table><tr><td>
-<br>
 
 - Also called Verts or Quarterpipes
 - They end in a completely vertical surface, launching the player straight up
@@ -483,7 +437,6 @@ Like the skateboard, but can't jump.
 <details>
 <summary><strong>Horizontal Ramps</strong></summary>
 <table><tr><td>
-<br>
 
 - Every ramp that is not a Vertical Ramp
 - You cannot kickflip into the direction you were coming from
@@ -497,12 +450,10 @@ Like the skateboard, but can't jump.
 <details>
 <summary><strong>Checkpoints</strong></summary>
 <table><tr><td>
-<br>
 
 <details>
 <summary><strong>Types</strong></summary>
 <table><tr><td>
-<br>
 
 - Green: mandatory or goal
 - Orange: optional
@@ -515,7 +466,6 @@ Like the skateboard, but can't jump.
 <details>
 <summary><strong>Order</strong></summary>
 <table><tr><td>
-<br>
 
 Sometimes checkpoints can only be collected in a certain order. In the game they're placed in a straightforward way. In custom levels you may have to figure out the order by yourself. A checkpoint is greyed out if you can't collect it yet
 
@@ -525,7 +475,6 @@ Sometimes checkpoints can only be collected in a certain order. In the game they
 <details>
 <summary><strong>Why do checkpoints rewind time?</strong></summary>
 <table><tr><td>
-<br>
 
 So beginners can achieve decent runs. But if they want to compete on the leaderboard they'll have to play without them, as they impose a one second penalty on you.
 
@@ -538,7 +487,6 @@ So beginners can achieve decent runs. But if they want to compete on the leaderb
 <details>
 <summary><strong>Goal</strong></summary>
 <table><tr><td>
-<br>
 
 The phsyics run at 60 ticks per second, so to calculate your exact time of collision with the goal, the game checks how deep you went into the goal on the current tick.
 
@@ -551,7 +499,6 @@ The phsyics run at 60 ticks per second, so to calculate your exact time of colli
 <details>
 <summary><strong>Ticks</strong></summary>
 <table><tr><td>
-<br>
 
 The physics run at 60 ticks per second. When playing on a higher framerate, the game inter- and extrapolates the physics so you have a smooth experience.
 
@@ -564,12 +511,10 @@ The physics run at 60 ticks per second. When playing on a higher framerate, the 
 <details>
 <summary><strong>Optional Content</strong></summary>
 <table><tr><td>
-<br>
 
 <details>
 <summary><strong>Medal Times</strong></summary>
 <table><tr><td>
-<br>
 
 Check the individual levels here: https://sblb.thefanclub.cc/
 
@@ -579,7 +524,6 @@ Check the individual levels here: https://sblb.thefanclub.cc/
 <details>
 <summary><strong>Cassettes</strong></summary>
 <table><tr><td>
-<br>
 
 Guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3813553890
 
@@ -589,7 +533,6 @@ Guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3813553890
 <details>
 <summary><strong>Bonus Level</strong></summary>
 <table><tr><td>
-<br>
 
 - Just more levels, that are slightly weirder
 - Unlock them by collecting VHS tapes
@@ -601,7 +544,6 @@ Guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3813553890
 <details>
 <summary><strong>Challenges</strong></summary>
 <table><tr><td>
-<br>
 
 - The 6th room contains different multi-level speedrun challenges
 - The timer works differently here: It doesn't rewind and it penalizes you only when rewinding within 1 second of touching a checkpoint . See Rules: https://www.speedrun.com/stuntboost
@@ -615,7 +557,6 @@ Guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3813553890
 <details>
 <summary><strong>Achievements</strong></summary>
 <table><tr><td>
-<br>
 
 Guide (Spoiler!): https://www.youtube.com/watch?v=L-IrCTK13Sc
 
@@ -628,12 +569,10 @@ Guide (Spoiler!): https://www.youtube.com/watch?v=L-IrCTK13Sc
 <details>
 <summary><strong>Community Content</strong></summary>
 <table><tr><td>
-<br>
 
 <details>
 <summary><strong>Leaderboard</strong></summary>
 <table><tr><td>
-<br>
 
 individual levels: https://sblb.thefanclub.cc/  
 overall leaderboard, ranked by your average level placement: https://sblb.thefanclub.cc/overall
@@ -644,7 +583,6 @@ overall leaderboard, ranked by your average level placement: https://sblb.thefan
 <details>
 <summary><strong>Custom Maps</strong></summary>
 <table><tr><td>
-<br>
 
 To play: either check out our [Discord](https://discord.gg/stuntboost) or see https://sblb.thefanclub.cc/?room=custom
 - To create check out our [Discord](https://discord.gg/stuntboost)
@@ -655,7 +593,6 @@ To play: either check out our [Discord](https://discord.gg/stuntboost) or see ht
 <details>
 <summary><strong>Modding</strong></summary>
 <table><tr><td>
-<br>
 
 - Not officially supported, but some players got something going in our [Discord](https://discord.gg/stuntboost)
 
@@ -665,7 +602,6 @@ To play: either check out our [Discord](https://discord.gg/stuntboost) or see ht
 <details>
 <summary><strong>Guides</strong></summary>
 <table><tr><td>
-<br>
 
 https://steamcommunity.com/app/2999500/guides/
 
