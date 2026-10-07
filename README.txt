@@ -87,7 +87,7 @@ Ingame - Physics
             - Landing somewhere higher then where you jumped off slightly slows you down. Sometimes it might be worth to ride up an uphill instead of jumping over it
             - Landing sideways or backwards initiates a drift which slows you down
         Kickflip
-            - This gets taught in lvl B3.
+            - This gets taught in lvl B1.
             - Jump before a ramp and then jump again when touching it mid-air. This will initiate a Kickflip which gives you twice the jump height. It works on horizontal and vertical ramps (quarterpipes).
             - The jump key timing is pretty generous and it doesn't matter if you hit the jump key slightly before or after collision
         Grind
