@@ -21,7 +21,7 @@
 • [Presskit](https://bytinggames.com/press/sheet.php?p=stuntboost)  
 • [Custom Mapping Tools](https://github.com/bytinggames/StuntboostTools)  
 • [speedrun.com](https://www.speedrun.com/stuntboost)  
-• [Website](https://bytinggames.com)  
+• [Homepage](https://bytinggames.com)  
 • [WRs on YouTube](https://www.youtube.com/@STUNTBOOSTWorldRecords)  
 • [Tobi's Music](https://tobiaskozel.bandcamp.com/album/stuntboost-ost)
 
