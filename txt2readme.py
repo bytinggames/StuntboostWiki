@@ -103,17 +103,22 @@ def is_list_item(line):
     return line.startswith(("- ", "* ", "+ "))
 
 
-def collect_sections(nodes, path=()):
-    """Yields (path of titles, node) for every section."""
+def collect_sections(nodes, path=(), top=None):
+    """Yields (path of titles, top level section it is in) for every section."""
     for node in nodes:
         if node.children:
             node_path = path + (node.text.lower(),)
-            yield node_path, node
-            yield from collect_sections(node.children, node_path)
+            yield node_path, top or node
+            yield from collect_sections(node.children, node_path, top or node)
 
 
 def link_sections(nodes):
-    """Replaces every [[Section title]] with a link to the anchor of that section."""
+    """Replaces every [[Section title]] with a link to that section.
+
+    GitHub can't unfold a section when a link is clicked and can't jump to
+    something inside a folded section, so the link jumps to the top level
+    section the target is in.
+    """
     sections = list(collect_sections(nodes))
     anchors = set()
 

@@ -1,11 +1,11 @@
 # STUNTBOOST Wiki
 <details>
-<summary><strong>Links</strong></summary>
+<summary><a name="links"></a><strong>Links</strong></summary>
 <dl><dd>
 <br>
 
 <details>
-<summary><a name="follow-us"></a><strong>Follow us</strong></summary>
+<summary><strong>Follow us</strong></summary>
 <dl><dd>
 
 • [Steam - STUNTBOOST](https://store.steampowered.com/app/2999500/STUNTBOOST/)  
@@ -46,7 +46,7 @@ Either on [Discord](https://discord.gg/stuntboost) or on the [Steam Forum](https
 <summary><strong>Where can I follow you?</strong></summary>
 <dl><dd>
 
-See [Links/Follow us](#follow-us)
+See [Links/Follow us](#links)
 
 </dd></dl>
 </details>
