@@ -25,7 +25,7 @@ FAQ
     Where can I chat with other players?
         - Our $discord
     When did it release?
-        2026, September 22th
+        2026, September 22nd
     Is there a level editor?
         No, but you can [design levels with our tools](https://github.com/bytinggames/StuntboostTools)
     Is there multiplayer or co-op? Or is it planned?

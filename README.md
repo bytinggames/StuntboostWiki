@@ -65,7 +65,7 @@ See [Links/Follow us](#links)
 <summary><strong>When did it release?</strong></summary>
 <dl><dd>
 
-2026, September 22th
+2026, September 22nd
 
 </dd></dl>
 </details>
