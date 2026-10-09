@@ -83,13 +83,14 @@ Ingame - Physics
             - It doesn't matter how long you hold the jump key. You can do a shorter jump by interrupting it with the crouch key (shift).
             - Jumping makes your collision shape smaller by pulling your "legs" up. When ground is in reach your "legs" / collision capsule will extend again
         Land
-            - You conserve the most speed if the platform you land on matches the angle of your velocity. This is less relevant when landing on ramps. Landing on ramps always gives you more speed.
+            - You conserve the most speed if the platform you land on matches the angle of your velocity. This is less relevant when landing on ramps. Landing on ramps always gives you more speed (unless you land on the same ramp twice without touching anything else in between. This prevents bunny hopping on a ramp to gain speed).
             - Landing somewhere higher then where you jumped off slightly slows you down. Sometimes it might be worth to ride up an uphill instead of jumping over it
             - Landing sideways or backwards initiates a drift which slows you down
         Kickflip
             - This gets taught in lvl B1.
             - Jump before a ramp and then jump again when touching it mid-air. This will initiate a Kickflip which gives you twice the jump height. It works on horizontal and vertical ramps (quarterpipes).
-            - The jump key timing is pretty generous and it doesn't matter if you hit the jump key slightly before or after collision
+            - The jump key timing is pretty generous and it doesn't matter if you hit the jump key slightly before or after collision.
+			- You can only kickflip on a ramp once, unless you touch anything else in between. When you kickflipped from a ramp you don't get the landing advantage on that ramp anymore, unless you touch anything else in between.
         Grind
             - Grinding doesn't give you speed, unless you're grinding on an orange/yellow rail. Then you'll accelerate constantly.
             - Grinding downhill or uphill will affect your velocity the same as when riding on the ground normally.

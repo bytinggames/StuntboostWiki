@@ -309,7 +309,7 @@ You can take very tight turns. If you drag your mouse faster than your board can
 <summary><strong>Land</strong></summary>
 <dl><dd>
 
-• You conserve the most speed if the platform you land on matches the angle of your velocity. This is less relevant when landing on ramps. Landing on ramps always gives you more speed.  
+• You conserve the most speed if the platform you land on matches the angle of your velocity. This is less relevant when landing on ramps. Landing on ramps always gives you more speed (unless you land on the same ramp twice without touching anything else in between. This prevents bunny hopping on a ramp to gain speed).  
 • Landing somewhere higher then where you jumped off slightly slows you down. Sometimes it might be worth to ride up an uphill instead of jumping over it  
 • Landing sideways or backwards initiates a drift which slows you down
 
@@ -322,7 +322,8 @@ You can take very tight turns. If you drag your mouse faster than your board can
 
 • This gets taught in lvl B1.  
 • Jump before a ramp and then jump again when touching it mid-air. This will initiate a Kickflip which gives you twice the jump height. It works on horizontal and vertical ramps (quarterpipes).  
-• The jump key timing is pretty generous and it doesn't matter if you hit the jump key slightly before or after collision
+• The jump key timing is pretty generous and it doesn't matter if you hit the jump key slightly before or after collision.  
+• You can only kickflip on a ramp once, unless you touch anything else in between. When you kickflipped from a ramp you don't get the landing advantage on that ramp anymore, unless you touch anything else in between.
 
 </dd></dl>
 </details>
