@@ -83,7 +83,7 @@ Ingame - Physics
             - It doesn't matter how long you hold the jump key. You can do a shorter jump by interrupting it with the crouch key (shift).
             - Jumping makes your collision shape smaller by pulling your "legs" up. When ground is in reach your "legs" / collision capsule will extend again
         Land
-            - You conserve the most speed if the platform you land on matches the angle of your velocity. This is less relevant when landing on ramps. Landing on ramps always gives you more speed (unless you land on the same ramp twice without touching anything else in between. This prevents bunny hopping on a ramp to gain speed).
+            - You conserve the most speed if the platform you land on matches the angle of your velocity. This is less relevant when landing on ramps. Landing on ramps always gives you more speed (unless you land on the same ramp twice without touching anything else in between. This prevents bunny hopping on a ramp to gain speed. A bowl or pool counts as two ramps, if you touch it on two opposing sides).
             - Landing somewhere higher then where you jumped off slightly slows you down. Sometimes it might be worth to ride up an uphill instead of jumping over it
             - Landing sideways or backwards initiates a drift which slows you down
         Kickflip
