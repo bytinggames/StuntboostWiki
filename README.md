@@ -323,7 +323,7 @@ You can take very tight turns. If you drag your mouse faster than your board can
 • This gets taught in lvl B1.  
 • Jump before a ramp and then jump again when touching it mid-air. This will initiate a Kickflip which gives you twice the jump height. It works on horizontal and vertical ramps (quarterpipes).  
 • The jump key timing is pretty generous and it doesn't matter if you hit the jump key slightly before or after collision.  
-• You can only kickflip on a ramp once, unless you touch anything else in between. When you kickflipped from a ramp you don't get the landing advantage on that ramp anymore, unless you touch anything else in between.
+• You can only kickflip on the same ramp once, unless you touch anything else in between. When you kickflipped from a ramp you don't get the landing advantage on that ramp anymore, unless you touch anything else in between.
 
 </dd></dl>
 </details>
